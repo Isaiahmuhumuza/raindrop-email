@@ -1,0 +1,9 @@
+body {
+  margin: auto !important;
+  text-align: center !important;
+  padding: 90px 0px 60px 0px!important;
+  font-family: 'Lato', sans-serif;
+  background-image: url(/assets/images/Background/Gradient-shapes.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
